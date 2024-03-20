@@ -22,7 +22,7 @@ Chez **Xklibur Solutions**, nous nous spécialisons dans la création de solutio
 
 Pour en savoir plus sur nos services ou démarrer un projet, contactez-nous :
 
-- **Email** : j.stmichel@icloud.com
+- **Email** : j.stmichel@xklibursolutions.io
 
 Nous sommes impatients de collaborer avec vous pour créer des solutions logicielles qui font la différence !
 
